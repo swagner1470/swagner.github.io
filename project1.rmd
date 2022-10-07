@@ -1,0 +1,13 @@
+---
+title: "Causal inference TA materials"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+I am hosting the materials I used for recitations during my time as a TA for Quant 3, OSU PLSC's causal inference partt of the quantitative methods training taught by [William Minozzi](https://minozzi.github.io/). These materials were built from many of th eprevious TA's, but specific credit to [Brian Finch](https://polisci.osu.edu/people/finch.140) and [Jon Green](https://jgreen4919.github.io/) for sharing their versions with me. 
+
+The [Github repo](https://github.com/swagner1470/Causal-inference-TA-materials) has all of the recitation materials I used for weekly recitations. I had a small class size and had quite a few that were more specific for individual students. I didn't plan the review of each week's problem set in advance and answered questions for roughly 20-30 minutes then completed the recitation files. I hope to continue updating with materials from future TA's in an attempt to share our work with each other and future scholars.  

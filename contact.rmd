@@ -1,0 +1,17 @@
+---
+title: "Contact information"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Email: <wagner.1470@osu.edu>
+
+Github: <https://github.com/swagner1470>
+
+Website: <http://seamuswagner.com/>
+
+
+

@@ -1,0 +1,12 @@
+---
+title: "Dissertation code and data"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Dissertation data hosting
+
+This will be the future space to host my code and files used in my dissertation. 
